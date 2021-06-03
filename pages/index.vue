@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container p-2 mb-16 text-white bg-teal-400">
     <ul>
       <li><span>1</span></li>
       <li><span>2</span></li>
